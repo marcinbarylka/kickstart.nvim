@@ -953,7 +953,7 @@ require('lazy').setup({
       event = '📅',
       ft = '📂',
       init = '⚙',
-      keys = '🗝',
+      keys = '🔑',
       plugin = '🔌',
       runtime = '💻',
       require = '🌙',
